@@ -7,3 +7,4 @@ I'm a software engineer who is passionate about making open-source more accessib
 - Learning in public on <a href="https://www.instagram.com/python.trick">Instagram</a> 🧠
 - Tinkering with interactions on <a href="https://twitter.com/ravvkush"> Twitter</a> 🐱‍🏍
 - Sharing updates on <a href="https://www.linkedin.com/in/gaurav-kushwaha-1a776919b/">LinkedIn</a> 💼
+- Resoruces for Python on <a href="https://t.me/pythoncookie">Telegram</a> 📚
