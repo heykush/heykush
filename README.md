@@ -35,8 +35,8 @@ GitHub is free and open to everyone. I am really passionate about doing Python s
 
 | Name                                                                  | Description                                                          | Language      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------- |
-| [Google-Message-Bot](https://github.com/heykush/Google-Message-Bot)|  | Send message in Google web message automagically                     | Python        | 
-| [Auto-Draw-In-Paint](https://github.com/heykush/Auto-Draw-In-Paint)   | 🍕 This is a project to make a human drawing.                        | Python        |       
-| [Dino-Automate](https://github.com/heykush/Dino-Automate)             | A Python auto script for dino game                                   | Python        | 
-| [Whatsapp-MultiUser](https://github.com/heykush/Whatsapp-MultiUser)   | Simple user scraper and send message                                 | Python        | 
+| [Google Message Bot](https://github.com/heykush/Google-Message-Bot)   | Send message in Google web message automagically                     | Python        | 
+| [Auto Draw In Paint](https://github.com/heykush/Auto-Draw-In-Paint)   | 🍕 This is a project to make a human drawing.                        | Python        |       
+| [Dino Automate](https://github.com/heykush/Dino-Automate)             | A Python auto script for dino game                                   | Python        | 
+| [Whatsapp MultiUser](https://github.com/heykush/Whatsapp-MultiUser)   | Simple user scraper and send message                                 | Python        | 
 
