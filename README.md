@@ -30,6 +30,7 @@ GitHub is **free** and open to everyone. I am really passionate about doing Pyth
 - AWS
 - Kali linux
 - Bash
+- Vs Code
 
 ## Projects I'm the most proud of
 
