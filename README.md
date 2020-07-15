@@ -10,4 +10,33 @@ I'm a software engineer who is passionate about making open-source more accessib
 - Sharing updates on <a href="https://www.linkedin.com/in/gaurav-kushwaha-1a776919b/">LinkedIn</a> 💼
 - Resoruces for Python on <a href="https://t.me/pythoncookie">Telegram</a> 📚
 
-[![heykush's github stats](https://github-readme-stats.vercel.app/api?username=heykush)](https://github.com/heykush/github-readme-stats)
+![GitHub stats](https://readme.trnck.dev/api?username=heykush)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+## What I do
+
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on
+GitHub is free and open to everyone. I am really passionate about doing Python specially for Cwarling, it is in my opinion to scrap data from sites is so beneficial for Today's need.
+
+## My skills 📜
+
+- Python
+- HTML
+- Chrome
+- AWS
+- Kali linux
+- Bash
+
+## Projects I'm the most proud of
+
+| Name                                                                  | Description                                                          | Language      |
+| --------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------- |
+| [Google-Message-Bot](https://github.com/heykush/Google-Message-Bot)|  | Send message in Google web message automagically                     | Python        | 
+| [Auto-Draw-In-Paint](https://github.com/heykush/Auto-Draw-In-Paint)   | 🍕 This is a project to make a human drawing.                        | Python        |       
+| [Dino-Automate](https://github.com/heykush/Dino-Automate)             | A Python auto script for dino game                                   | Python        | 
+| [Whatsapp-MultiUser](https://github.com/heykush/Whatsapp-MultiUser)   | Simple user scraper and send message                                 | Python        | 
+
