@@ -19,8 +19,8 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 ## What I do
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing Python specially for Cwarling, it is in my opinion to scrap data from sites is so beneficial for Today's need.
+I do **Open Source.** In fact, I do Open Source so much, that 95% of my work on
+GitHub is **free** and open to everyone. I am really passionate about doing Python specially for Crawling, it is in my opinion to scrap data from sites is so beneficial for Today's need.
 
 ## My skills 📜
 
