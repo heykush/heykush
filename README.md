@@ -9,3 +9,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 - Tinkering with interactions on <a href="https://twitter.com/ravvkush"> Twitter</a> 🐱‍🏍
 - Sharing updates on <a href="https://www.linkedin.com/in/gaurav-kushwaha-1a776919b/">LinkedIn</a> 💼
 - Resoruces for Python on <a href="https://t.me/pythoncookie">Telegram</a> 📚
+
+[![heykush's github stats](https://github-readme-stats.vercel.app/api?username=heykush)](https://github.com/heykush/github-readme-stats)
