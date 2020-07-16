@@ -10,7 +10,6 @@ I'm a software engineer who is passionate about making open-source more accessib
 - Sharing updates on <a href="https://www.linkedin.com/in/gaurav-kushwaha-1a776919b/">LinkedIn</a> 💼
 - Resoruces for Python on <a href="https://t.me/pythoncookie">Telegram</a> 📚
 
-![GitHub stats](https://readme.trnck.dev/api?username=heykush)
 
 <details>
 <summary>
