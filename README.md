@@ -2,7 +2,7 @@
 
 ![porfolio](https://github.com/heykush/heykush/blob/master/Copy%20of%20Untitled.png?raw=true)
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some projects I enjoy working with include Python(Automation, APIs + Web Scraping) and HTML. I recently started my Python Page <a href="https://www.instagram.com/python.trick/">@python.trick 🌟</a> can join us in our python community.  My interest in the Making Bots led me to make this project <a href="https://github.com/heykush/My-Assistant">Google Assistant</a>, a window virtual assistant to help you make this world more beautiful. 
+I'm a ~~software engineer~~ Pseudo Coder who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some projects I enjoy working with include Python(Automation, APIs + Web Scraping) and Web Development. I recently started my Python Page <a href="https://www.instagram.com/python.trick/">@python.trick 🌟</a> can join us in our python community.  My interest in the Making Bots led me to make this project <a href="https://github.com/heykush/My-Assistant">Google Assistant</a>, a window virtual assistant to help you make this world more beautiful. 
 
 ## Find me around the web 🌎:
 - Learning in public on <a href="https://www.instagram.com/python.trick">Instagram</a> 🧠
@@ -24,12 +24,14 @@ GitHub is **free** and open to everyone. I am really passionate about doing Pyth
 ## My skills 📜
 
 - Python
-- HTML
-- Chrome
-- AWS
+- HTML/CSS
+- Chrome Dev Tool
+- AWS 
 - Kali linux
 - Bash
 - Vs Code
+- Shell
+- 
 
 ## Projects I'm the most proud of
 
