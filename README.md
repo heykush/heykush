@@ -31,7 +31,6 @@ GitHub is **free** and open to everyone. I am really passionate about doing Pyth
 - Bash
 - Vs Code
 - Shell
-- 
 
 ## Projects I'm the most proud of
 
