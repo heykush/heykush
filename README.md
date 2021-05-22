@@ -1,4 +1,4 @@
-# Hi, I'm [Gaurav](https://www.instagram.com/ravvkush) 👋🏻 👨🏻‍💻
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Gaurav](https://www.instagram.com/ravvkush) 👨🏻‍💻
 
 ![porfolio](https://github.com/heykush/heykush/blob/master/Copy%20of%20Untitled.png?raw=true)
 
