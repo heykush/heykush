@@ -32,7 +32,7 @@ GitHub is **free** and open to everyone. I am really passionate about doing Pyth
 - Vs Code
 - Shell
 
-## Projects I'm the most proud of
+## Projects I'm the most proud of <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="20px">
 
 | Name                                                                  | Description                                                          | Language      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------- |
