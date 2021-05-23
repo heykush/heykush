@@ -19,11 +19,18 @@ I'm a ~~software engineer~~ **pseudo coder** who is passionate about making open
 ## What I do
 
 I do **Open Source.** In fact, I do Open Source so much, that 95% of my work on
-GitHub is **free** and open to everyone. I am really passionate about doing Python specially for Crawling, it is in my opinion to scrap data from sites is so beneficial for Today's need.
+GitHub is **free** and open to everyone. I am really passionate about doing Python specially for Crawling, my opinion to scrap data from sites is so beneficial for Today's need.
 
-## My skills 📜
+## Tech i know 📜
 
-- Python - HTML/CSS - Chrome Dev Tool - AWS  - Kali linux - Bash  
+- Python 
+- Js
+- HTML/CSS
+- React
+- Chrome Dev Tool 
+- AWS 
+- Kali linux
+- Bash  
 
 ## Projects I'm the most proud of <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="20px">
 
