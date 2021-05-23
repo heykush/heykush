@@ -23,14 +23,7 @@ GitHub is **free** and open to everyone. I am really passionate about doing Pyth
 
 ## My skills 📜
 
-- Python
-- HTML/CSS
-- Chrome Dev Tool
-- AWS 
-- Kali linux
-- Bash
-- Vs Code
-- Shell
+- Python - HTML/CSS - Chrome Dev Tool - AWS  - Kali linux - Bash  
 
 ## Projects I'm the most proud of <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif?raw=true" width="20px">
 
