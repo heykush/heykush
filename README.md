@@ -1,8 +1,16 @@
 # Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="30px">, I'm [Gaurav](https://www.linkedin.com/in/heykush/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="43px" height="30px">
 
 ![porfolio](https://github.com/heykush/heykush/blob/master/Copy%20of%20Untitled.png?raw=true)
+<div align="center">
+  
+I'm a **software engineer** who is passionate about making open-source more approachable, and building community. Some technologies. I like building tools **(CLI and Automation) with scalable APIs**. I advocate for Open Source literacy and inclusivity. 
 
-I'm a software engineer who is passionate about making open-source more approachable, and building community. Some technologies I enjoy working with include <strong>_Python(Automation, APIs + Web Scraping) Java, ReactJS and Web Development_.</strong> My interest in the Python Automation ecosystem led me to launch, <a href="https://www.instagram.com/python.trick/">python.trick 🌟</a>, a community for python developer. I believe in **learning in public with Open Source.** 
+I work with communities to bring more people into the Open Source ecosystem. My interest in the Python Automation ecosystem, led me to launch, <a href="https://www.instagram.com/python.trick/">python.trick 🌟</a>, a community for python developer. I believe in **learning in public.** 
+
+<br>
+
+</div>
+
 
 ## Find me around the web 🌎: 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/heykush/heykush/blob/master/devcard.svg" width="300" height="350" align="right" alt="Gaurav kushwaha's Dev Card"/></a>
