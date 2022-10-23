@@ -23,13 +23,33 @@ It's fun, and here it starts ... </p> <br/> <br/>
 
 <div align="center">
 <p align="center"><b>FOR MORE BLOGS ⬇</b></p>
-<p><a href="https://dev.to/heykush"><img src="https://img.shields.io/badge/dev.to-2962FF?style=for-the-badge&logo=dev.to&logoColor=white"></a></p>
+<p><a href="https://dev.to/heykush"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a></p>
 </div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heykush/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Linkedin-gaurav-blue?logo=linkedin&logoColor=white" />
+   
+  </a>
+  <a href="https://twitter.com/ravvkush" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-ravvkush-blue?logo=twitter&logoColor=blue&color=blue" />
+ </a>
+
+  <a href="https://dev.to/heykush" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DEV.TO-heykush-black?logo=dev.to&logoColor=white&color=black" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/15594544/gaurav-kushwaha" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/StackOverflow-gaurav%20kushwaha-orange?logo=stackoverflow&logoColor=orange&color=purple" />
+  </a>
+  
+</p>
 
 ### Achievements
 
 - 🏆 Selected - Github Campus Teacher 2022.           
 - 🏆 Selected - Research Paper on Scroll Ease - [`IRJET`](https://github.com/heykush/ScrollEase)
+
 
 <!-- ## Find me around the web 🌎: 
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/heykush/heykush/blob/master/devcard.svg" width="300" height="350" align="right" alt="Gaurav kushwaha's Dev Card"/></a>-->
