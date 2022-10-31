@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="30px">, I'm [Gaurav](https://www.linkedin.com/in/heykush/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="43px" height="30px">
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="34px" height="30px">, I'm [Gaurav](https://www.linkedin.com/in/heykush/)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="43px" height="31px">
 
 ![porfolio](https://github.com/heykush/heykush/blob/master/Copy%20of%20Untitled.png?raw=true)
 <div align="center">
