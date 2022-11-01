@@ -14,7 +14,7 @@ I work with communities to bring more people into the Open Source ecosystem. My 
 ### My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://dev.to/heykush/automate-posting-in-blogger-in-seconds-527k" title="Automate Posting in Blogger"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iwkPE6Mz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w4n6k439n7iilulr81ma.png" alt="Automate Posting in Blogger" width="250px" align="left" /></a>
+<a href="https://dev.to/heykush/automate-posting-in-blogger-in-seconds-527k" title="Automate Posting in Blogger"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--0b7oDnec--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6f71qtxurfb0h3tqzh7k.png" alt="Automate Posting in Blogger" width="250px" align="left" /></a>
 <a href="https://dev.to/heykush/automate-posting-in-blogger-in-seconds-527k" title="Automate Posting in Blogger"><strong>Automate Posting in Blogger</strong></a>
 <br/><strong>Wondering How?</strong>
 Daily writing article and posting it manally is time consuming task, and here is the solution of it. If you someone who started blog for product review and affiliate.
